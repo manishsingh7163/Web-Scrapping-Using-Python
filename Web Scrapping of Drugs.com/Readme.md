@@ -6,7 +6,7 @@ Requirments
 
 Web Scrapping for Drugs (Medicine)
 ---------------------------------
-This python program scrap the data related to medicine from the website: https://www.Drugs.com/ . The data available on the website is a lot but we only extracted the Medicine name,
+This python program scrap the data related to medicine from the website: https://www.drugs.com/ . The data available on the website is a lot but we only extracted the Medicine name,
 Medicince manufacturer, Price and Genric drug.
 
 Beautifulsoup
