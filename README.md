@@ -18,3 +18,17 @@ Reference
 ---------
 1. BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 2. Python: https://docs.python.org/3/
+
+
+
+
+GOOGLE SEARCH MATCHED
+---------------------
+
+The program take the list of doctor names and numbers and return that it is available on goolge or not. You don't need to give the query manually
+Requirment
+---------
+1. Python 3
+2. Beautiful Soup 
+3. Google webdrivers
+
